@@ -10,6 +10,7 @@ My GitHub page is https://github.com/aaronmendoza02
 ## Favorite Computer Science Labs
 
 Lab 4
+
 Lab 4, parts 1 and 2 were a fun and challenging way to calculate 
 values that a user would input, especially as a beginner. While part 1 
 offered a more functional way to calculate conversions of values, 
@@ -18,6 +19,7 @@ lab showed me how well functions make programming less cluttered by
 calling them and the practicality behind them.
 
 Lab 6
+
 Lab 6, part 1 was memorable for me because of how simple in nature it 
 was, but still offered some thinking to be involved. It was the first 
 time I actually understood how the .size and .at functioned and seeing 
@@ -26,6 +28,7 @@ how to properly work with it to make a functional program involving
 sandwiches.
 
 Lab 7
+
 Lab 7 was one of those programs that was a struggle that required many 
 questions to be answered, but very satisfying to complete. It still 
 offered a fun way to think about the challenges of parking on certain 
